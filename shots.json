@@ -1,0 +1,5 @@
+[
+  { "file": "1-deals.jpg", "path": "#/", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "2-deal.jpg", "path": "#/deal/dyson-v9", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "3-deal-phone.jpg", "path": "#/deal/airpods-pro-3", "viewport": { "width": 390, "height": 844 } }
+]
